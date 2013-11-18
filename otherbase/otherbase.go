@@ -1,0 +1,3 @@
+package otherbase
+
+func Qux() {}
